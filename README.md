@@ -24,4 +24,4 @@ Método GET: /users
 Método GET: /users/:index, onde index é a posição no array que se encontra o usuário em que quer listar.
 
 **Excluir um usuário**
-Método DEL: http://localhost:3000/users/:index, onde index é a posição no array do usuário que quer excluir do array.
+Método DEL: /users/:index, onde index é a posição no array do usuário que quer excluir do array.
